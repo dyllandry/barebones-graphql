@@ -1,5 +1,7 @@
 # Barebones GraphQL
 
+Checkout [index.js](./index.js) for the code.
+
 This is a barebones demo of using GraphQL using only one dependency, the graphql npm module.
 
 ## Upgrades
